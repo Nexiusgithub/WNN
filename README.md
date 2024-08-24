@@ -12,6 +12,7 @@ NVMF (czyli Nexius Video Media Format) to taki mój stworzony format którym wyg
 Jak to działa?:
 Jak to działa?, jeśli wybierasz randomowy film z formatem dla przykład MP4, zaczyna się procesowanie, procesuje jako MP4 i stworzony jako NVMF
 
+Jeszcze mamy kanał o nazwie "NVMG Videos" którym na tym filmie są filmy na formacie NVMF, także zapraszam na [kanał]([https://www.youtube.com/@NVMFVideos])
 # EN <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1920px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" width="48">
 ## Video to NVMF
 Video to NVMF is a converter that changes videos to NVMF (Nexius Video Media Format)
@@ -25,3 +26,5 @@ NVMF (or Nexius Video Media Format) is a format I created that looks like any vi
 
 How does it work?:
 How does it work?, if you choose a random video with a format for example MP4, it starts processing, processes as MP4 and created as NVMF
+
+We also have a channel called "NVMG Videos" which, in this film, has films in the NVMF format, so I invite you to [channel]([https://www.youtube.com/@NVMFVideos])
