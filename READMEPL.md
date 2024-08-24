@@ -1,5 +1,5 @@
  # PL
-## WIDEO na NVMF
+## Wideo na NVMF
 Wideo na NVMF to taki konwerter który zmienia filmy na NVMF (Nexius Video Media Format)
 # Pytania i Odpowiedzi
 
