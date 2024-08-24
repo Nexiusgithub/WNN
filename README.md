@@ -1,4 +1,4 @@
- # 🇵🇱
+# ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png))
 ## Wideo na NVMF
 Wideo na NVMF to taki konwerter który zmienia filmy na NVMF (Nexius Video Media Format)
 # Pytania i Odpowiedzi
