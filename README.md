@@ -1,4 +1,4 @@
-# PL <img src="https://github.com/favicon.ico](https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png" width="48">
+# PL <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png" width="48">
 ## Wideo na NVMF
 Wideo na NVMF to taki konwerter który zmienia filmy na NVMF (Nexius Video Media Format)
 # Pytania i Odpowiedzi
