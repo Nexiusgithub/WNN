@@ -1,7 +1,7 @@
 # PL <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png" width="48">
 ## Wideo na NVMF
 Wideo na NVMF to taki konwerter który zmienia filmy na NVMF (Nexius Video Media Format)
-# Pytania i Odpowiedzi
+### Pytania i Odpowiedzi
 
 Co to jest Wideo na NVMF?:
 Wideo na NVMF to taki konwerter którym zmieni każde formaty (oprócz nvmf bo nvmf na nvmf nie da się
@@ -15,7 +15,7 @@ Jak to działa?, jeśli wybierasz randomowy film z formatem dla przykład MP4, z
 # EN <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1920px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" width="48">
 ## Video to NVMF
 Video to NVMF is a converter that changes videos to NVMF (Nexius Video Media Format)
-# Questions and Answers
+### Questions and Answers
 
 What is Video to NVMF?:
 Video to NVMF is a converter that will change any format (except nvmf because you can't change nvmf to nvmf
